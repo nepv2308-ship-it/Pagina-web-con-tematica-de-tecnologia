@@ -9,7 +9,6 @@ Bienvenido al repositorio de **CyberGuard**, una página web corporativa diseña
 Para representar nuestra fortaleza, el sitio cuenta con un guardián robótico en el encabezado (Hero Section).
 
 ![Robot Guardián de CyberGuard](robot.png)
-*Nota: Si estás visualizando esto en GitHub o un lector de MD, asegúrate de que la imagen 'robot.png' esté en la misma carpeta.*
 
 ---
 
